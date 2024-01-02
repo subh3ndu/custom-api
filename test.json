@@ -1,18 +1,30 @@
 [
-  {
-    "id": 1,
-    "data": 12
-  },
     {
-    "id": 2,
-    "data": 35
-  },
+      'label': 'Banana',
+      'Nitrogen': 10,
+      'Oxygen': 20,
+      'Hydrogen': 30,
+      'Helium': 8
+    },
     {
-    "id": 3,
-    "data": 89
-  },
+      'label': 'Apple',
+      'Nitrogen': 40,
+      'Oxygen': 50,
+      'Hydrogen': 60,
+      'Helium': 20
+    },
     {
-    "id": 4,
-    "data": 24
-  }
+      'label': 'Mango',
+      'Nitrogen': 70,
+      'Oxygen': 80,
+      'Hydrogen': 90,
+      'Helium': 24
+    },
+    {
+      'label': 'Orange',
+      'Nitrogen': 64,
+      'Oxygen': 56,
+      'Hydrogen': 20,
+      'Helium': 42
+    }
 ]
